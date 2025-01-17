@@ -94,6 +94,6 @@ FreelanceCycle은 프리랜서와 기업을 연결하는 혁신적인 포트폴�
 
 프로젝트 관리자 - [@YangMun](https://github.com/YangMun)
 
-프로젝트 링크: [https://github.com/yourusername/FreelanceCycle](https://github.com/yourusername/FreelanceCycle)
+프로젝트 링크: [http://sensational-kangaroo-50b175.netlify.app](http://sensational-kangaroo-50b175.netlify.app)
 
 ---
